@@ -77,6 +77,16 @@ flowchart LR
 
 ---
 
+## 🎬 Demo
+
+[![Watch the approve to post flow](https://img.youtube.com/vi/ApsUdfstSFM/maxresdefault.jpg)](https://www.youtube.com/watch?v=ApsUdfstSFM)
+
+<p align="center"><i>&#9654;&#65039; Full approve &rarr; post walkthrough / Toan bo qua trinh duyet &rarr; dang &mdash; <a href="https://www.youtube.com/watch?v=ApsUdfstSFM">watch on YouTube</a></i></p>
+
+<!-- Anh that: tha screenshot Telegram vao docs/ roi bo dau comment dong duoi:
+![Telegram approval cards](docs/telegram-approval.png)
+-->
+
 ## ✨ Highlights — Điểm nổi bật
 
 | | EN | VI |
