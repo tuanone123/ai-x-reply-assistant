@@ -83,9 +83,10 @@ flowchart LR
 
 <p align="center"><i>&#9654;&#65039; Full approve &rarr; post walkthrough / Toan bo qua trinh duyet &rarr; dang &mdash; <a href="https://www.youtube.com/watch?v=ApsUdfstSFM">watch on YouTube</a></i></p>
 
-<!-- Anh that: tha screenshot Telegram vao docs/ roi bo dau comment dong duoi:
-![Telegram approval cards](docs/telegram-approval.png)
--->
+<p align="center">
+  <img src="docs/telegram-approval.png" width="380" alt="Telegram approval cards">
+  <br><i>Real approval cards in Telegram / Thẻ duyệt thật trên Telegram</i>
+</p>
 
 ## ✨ Highlights — Điểm nổi bật
 
